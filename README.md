@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharmendra Kumar
 - 🧠 I’m interested in Software Engineering.
-- 🔗 You can see my [Resume], [Linkedin](https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/), and more on my [Linktree](linktr.ee/rohityaduvanshi03) account.
+- 🔗 You can see my [Resume], [Linkedin](www.linkedin.com/in/dharmendrakumarmodi) account.
 - 💼 I’m looking for Contribution.
 - 📫 You can reach me via dmodi9235@gmail.com.
 
@@ -69,11 +69,10 @@
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Rohit_kumar_2/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://leetcode.com/u/d_modi1947/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/dharmendrakumarmodi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/profile/rohit_yaduvanshi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-  </a>
+ 
 
 </div>
