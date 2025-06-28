@@ -58,7 +58,7 @@
 
 <p align="center"> 
   <a href = "https://leetcode.com/u/d_modi1947/">
-    <img src="https://leetcard.jacoblin.cool/Rohit_kumar_2?theme=unicorn&font=Almarai"/>
+    <img src="https://leetcard.jacoblin.cool/d_modi1947?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
 
